@@ -1,0 +1,2 @@
+strace mknod fifo_file p
+strace mkfifo fifo_file

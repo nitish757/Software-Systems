@@ -1,0 +1,1 @@
+mkfifo 19b_fifo
